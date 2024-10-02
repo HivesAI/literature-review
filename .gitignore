@@ -1,1 +1,6 @@
+# API Secrets
 .env
+
+# Data downloaded with Copernicus
+*.nc
+*.zip
